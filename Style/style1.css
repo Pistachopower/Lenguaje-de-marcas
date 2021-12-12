@@ -1,0 +1,118 @@
+
+
+.fondo {
+    background-color: chocolate;
+    
+}
+
+.titulos {
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+
+}
+
+.titulofania {
+    text-align-last: left;
+    font-family: 'Nunito', sans-serif;
+}
+
+.clave{
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+}
+
+img {
+    height: auto;
+    width: 400px;
+    align-self: start;
+}
+
+p{
+    
+    margin: 16px 20px 25px 18px;
+    font-family: 'Readex Pro', sans-serif;
+}
+
+.titulos2 {
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+
+}
+
+
+.hector {
+    text-align-last: center;
+    margin-right: 10px;
+    font-family: 'Nunito', sans-serif;
+}
+
+
+
+ul.a {
+    list-style-type: circle;
+    font-family: 'Readex Pro', sans-serif;
+  }
+
+ul.b {
+    list-style-type: disc;
+    font-family: 'Readex Pro', sans-serif;
+}
+
+ol.c{
+    list-style-type: upper-roman;
+    float: left;
+    font-family: 'Readex Pro', sans-serif;
+}
+
+ul.d {
+    font-family: 'Readex Pro', sans-serif;
+    
+}
+
+h3 {
+    font-family: 'Readex Pro', sans-serif;
+    
+}
+
+#margen {
+    float: left;
+  padding: 0;
+  margin: 0;
+  width: 700px;
+} 
+
+#margen2 {
+    float: right;
+  padding: 0;
+  margin: 0;
+  width: 700px;
+} 
+
+#margen3{
+    float: left;
+  padding: 0;
+  margin: 0;
+  width: 700px;
+}
+
+#margen4{
+    float:right;
+}
+
+#celia {
+    padding-left: 100px;
+    margin: 10px;
+    float: left;
+    border: 2px;
+    background-color: rgb(182, 202, 153) ;
+}
+
+table, td{
+    background-color: rgb(228, 178, 161);
+    border: 3px solid black;
+    border-collapse: collapse;
+    width: 50%;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+
+}
